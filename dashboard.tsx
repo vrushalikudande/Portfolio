@@ -576,16 +576,18 @@ export default function DevOpsPortfolio() {
                   <CardContent className="p-6">
                     <div className="space-y-6">
                       <p className="text-slate-300">
-                        I'm a DevOps Engineer specializing in infrastructure automation, containerization, and cloud-native 
-                        technologies. Currently working as a Freelance DevOps Engineer through DevOps Dynamics agency while 
-                        pursuing my Bachelor's degree in Computer Engineering at Savitribai Phule Pune University with a 
-                        CGPA of 9.36.
+                        Hi, I'm <span className="text-cyan-400 font-semibold">Vrushali Kudande</span>, a DevOps Engineer passionate about 
+                        building scalable, automated, and reliable infrastructure.
                       </p>
 
                       <p className="text-slate-300">
-                        My expertise spans across enterprise-scale projects including Jenkins shared libraries for 1000+ 
-                        repositories, ML-powered Kubernetes observability platforms, and cloud infrastructure automation. 
-                        I believe in creating systems that are not only efficient and scalable but also maintainable and secure.
+                        I started working as a Freelance DevOps Engineer during my Computer Engineering degree, which I recently completed 
+                        from Savitribai Phule Pune University with a 9.36 CGPA.
+                      </p>
+
+                      <p className="text-slate-300">
+                        I have experience in <span className="text-cyan-400 font-semibold">containerization, automation, and cloud platforms</span>, 
+                        and I enjoy creating systems that are efficient, consistent, and easy to maintain.
                       </p>
 
                       <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-6">
@@ -618,7 +620,7 @@ export default function DevOpsPortfolio() {
                               <Badge className="mr-2 bg-cyan-500/20 text-cyan-400 border-cyan-500/50">
                                 Dec 2021 - Jun 2025
                               </Badge>
-                              <span>B.E. Computer Engineering, Savitribai Phule Pune University (CGPA: 9.36)</span>
+                              <span>B.E. Computer Engineering, Savitribai Phule Pune University (Completed - CGPA: 9.36)</span>
                             </li>
                             <li className="flex items-start">
                               <Badge className="mr-2 bg-blue-500/20 text-blue-400 border-blue-500/50">Feb 2025</Badge>
